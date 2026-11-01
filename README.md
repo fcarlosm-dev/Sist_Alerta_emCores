@@ -9,11 +9,13 @@ Sistema de alerta de nível de reservatório
 
 Sistema elaborado em código Python, que exibe mensagens de alerta conforme o nível de água do reservatório.
 
-[NÍVEL 1] Muito baixo (crítico)
-[NÍVEL 2] Baixo
-[NÍVEL 3] Médio
-[NÍVEL 4] Alto
-[NÍVEL 5] Muito alto (alerta)
+|             NÍVEIS              |
+|---------------------------------|
+| NÍVEL 1 | Muito baixo - crítico |
+| NÍVEL 2 | Baixo                 |
+| NÍVEL 3 | Médio                 |
+| NÍVEL 4 | Alto                  |
+| NÍVEL 5 | Muito Alto - alerta   |
 
 ---
 
