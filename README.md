@@ -7,7 +7,7 @@ Sistema de alerta de nível de reservatório
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Controle](https://img.shields.io/badge/Controle-100%25-yellow?style=for-the-badge&logo=lightning&logoColor=black)
 
-Sistema elaborado em código Python, que exibe mensagens de alerta conforme o nível de água do reservatório.
+Sistema que exibe mensagens de alerta em cores, conforme o nível de água do reservatório.
 
 |       NÍVEIS          e    CORES    |
 |-------------------------------------|
