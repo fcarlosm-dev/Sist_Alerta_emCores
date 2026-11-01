@@ -21,13 +21,9 @@ Sistema que exibe mensagens de alerta em cores, conforme o nível de água do re
 
 ## 📌 Índice
 
--[Sobre o Projeto](#-sobre-o-projeto)
--[Regras de verificação](#-regras-de-verificação)
--[Funcionalidades](#-funcionalidades)
 -[Tecnologias Utilizadas](#-tecnologias-utilizadas)
--[Como Verificar](#-como-verificar)
--[Exemplo de Uso](#-exemplo-de-uso)
--[Estrutura do Projeto](#-estrutura-do-projeto)
+-[Sobre o Projeto](#-sobre-o-projeto)
+-[Autor](#-autor)
 
 ---
 
@@ -44,7 +40,7 @@ Sistema que exibe mensagens de alerta em cores, conforme o nível de água do re
 
 ---
 
-## 🎯 Sobre 
+## 🎯 Sobre o Projeto
 
 O **Sist_Alerta_emCores** é um sistema desenvolvido em código **Python**, que exibe mensagens de alerta com cores diferentes conforme o nível de água no reservatório. O sistema usa cores sólidas para indicar a capacidade real.
 Por ser um projeto inicial, que não necessita de inserção de dados, pode sofrer alterações para aumentar a capacidade e dinamismo no monitoramento.
