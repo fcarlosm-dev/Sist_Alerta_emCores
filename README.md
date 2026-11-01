@@ -7,10 +7,9 @@ Sistema de alerta de nível de reservatório
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Controle](https://img.shields.io/badge/Controle-100%25-yellow?style=for-the-badge&logo=lightning&logoColor=black)
 
+Sistema elaborado em código Python, que exibe mensagens de alerta conforme o nível de água do reservatório.
 
-> 🛒 Sistema elaborado em código Python, que exibe mensagens de alerta conforme o nível de água do reservatório.
-
-[NÍVEL 1] Muito baixo (crítico)(https://img.shields.io/badge/NÍVEL 1-100%25-yellow?style=for-the-badge&logo=lightning&logoColor=red)
+[NÍVEL 1] Muito baixo (crítico)
 [NÍVEL 2] Baixo
 [NÍVEL 3] Médio
 [NÍVEL 4] Alto
@@ -37,7 +36,7 @@ Sistema de alerta de nível de reservatório
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-- 🐍 **Python 3.14-64** — Linguagem principal do projeto.
+- 🐍 **Python 3.14** — Linguagem principal do projeto.
 - 💻 **Visual Studio Code** — Editor recomendado.
 - 🔧 **Git e GitHub** — Controle de versão e hospedagem do código.
 
