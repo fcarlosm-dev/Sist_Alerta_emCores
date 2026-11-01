@@ -23,6 +23,7 @@ Sistema que exibe mensagens de alerta em cores, conforme o nível de água do re
 
 -[Tecnologias Utilizadas](#-tecnologias-utilizadas)
 -[Sobre o Projeto](#-sobre-o-projeto)
+-[Passo a Passo](#-passo-a-passo)
 -[Autor](#-autor)
 
 ---
@@ -49,7 +50,7 @@ Atualmente devido a eventos climáticos como El Niño que, de acordo com os espe
 
 ---
 
-### ▶️ Passo a passo
+### ▶️ Passo a Passo
 
 ```bash
 # 1. Clone o repositório
