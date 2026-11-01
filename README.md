@@ -2,7 +2,7 @@
 Sistema de alerta de nível de reservatório
 # 💰 Sist_Alerta_emCores
 
-![Python](https://img.shields.io/badge/Python-3.14-%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.14%2B-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Conclu%C3%ADdo-brightgreen?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-Reposit%C3%B3rio-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Controle](https://img.shields.io/badge/Controle-100%25-yellow?style=for-the-badge&logo=lightning&logoColor=black)
