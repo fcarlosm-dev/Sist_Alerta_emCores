@@ -11,11 +11,11 @@ Sistema elaborado em código Python, que exibe mensagens de alerta conforme o n�
 
 |             NÍVEIS              |
 |---------------------------------|
-| NÍVEL 1 | Muito baixo - crítico |
-| NÍVEL 2 | Baixo                 |
-| NÍVEL 3 | Médio                 |
-| NÍVEL 4 | Alto                  |
-| NÍVEL 5 | Muito Alto - alerta   |
+| Nível 1 - Muito baixo - crítico |
+| Nível 2 - Baixo                 |
+| Nível 3 - Médio                 |
+| Nível 4 - Alto                  |
+| Nível 5 - Muito Alto - alerta   |
 
 ---
 
