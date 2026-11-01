@@ -49,6 +49,20 @@ Atualmente devido a eventos climáticos como El Niño que, de acordo com os espe
 
 ---
 
+### ▶️ Passo a passo
+
+```bash
+# 1. Clone o repositório
+git clone https://github.com/fcarlosm-dev/Sist_Alerta_emCores.git
+
+# 2. Acesse a pasta do projeto
+cd Sist_Alerta_emCores
+
+# 3. Execute o programa
+python FlavioMartins_Ag11_DS_I.py
+
+---
+
 ## 👨‍💻 Autor
 
 Desenvolvido por **Flavio Martins**
