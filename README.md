@@ -8,7 +8,7 @@ Sistema de alerta de nível de reservatório
 ![Controle](https://img.shields.io/badge/Controle-100%25-yellow?style=for-the-badge&logo=lightning&logoColor=black)
 
 
-> 🛒 Sistema elaborado em código Python, que exibe mensagens de alerta em cores diferentes, conforme o nível de água no reservatório.
+> 🛒 Sistema elaborado em código Python, que exibe mensagens de alerta conforme o nível de água do reservatório.
 
 [NÍVEL 1] Muito baixo (crítico)
 [NÍVEL 2] Baixo
